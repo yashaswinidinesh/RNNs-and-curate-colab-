@@ -5,21 +5,13 @@
 
 ## 📹 Video Walkthrough
 
-[![Watch the Video](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch the Video](https://drive.google.com/drive/folders/1gnv0N_jo5XuOCue_wk_Tpnnf4laSzvNv?usp=sharing)](Collab Video Explanation)
 
-> 🔗 **Video Link:** [YOUR_YOUTUBE_LINK_HERE](YOUR_YOUTUBE_LINK_HERE)
+> 🔗 **Video Link:** [https://drive.google.com/drive/folders/1gnv0N_jo5XuOCue_wk_Tpnnf4laSzvNv?usp=sharing](Collab Video Explanation)
 > *Full code walkthrough — block by block explanation with outputs*
 
 ---
 
-## 📓 Colab Notebook
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
-
-> 🔗 **Colab Link:** [YOUR_COLAB_LINK_HERE](YOUR_COLAB_LINK_HERE)
-> *Executed notebook with all outputs saved*
-
----
 
 ## 📖 What This Notebook Covers
 

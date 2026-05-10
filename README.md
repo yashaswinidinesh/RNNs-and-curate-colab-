@@ -5,7 +5,7 @@
 
 ## 📹 Video Walkthrough
 
-[![Watch the Video](https://drive.google.com/drive/folders/1gnv0N_jo5XuOCue_wk_Tpnnf4laSzvNv?usp=sharing)](Collab Video Explanation)
+
 
 > 🔗 **Video Link:** [https://drive.google.com/drive/folders/1gnv0N_jo5XuOCue_wk_Tpnnf4laSzvNv?usp=sharing](Collab Video Explanation)
 > *Full code walkthrough — block by block explanation with outputs*
